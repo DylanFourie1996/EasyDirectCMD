@@ -1,0 +1,2 @@
+D:\repos\EasyDirectCMD\bin\Release\net9.0\win-x64\publish\EasyDirectCMD.pdb
+D:\repos\EasyDirectCMD\bin\Release\net9.0\win-x64\publish\EasyDirectCMD.exe

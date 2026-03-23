@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyDirectCMD", "EasyDirectCMD.csproj", "{15AB957D-7270-493D-86E1-8FA641558395}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15AB957D-7270-493D-86E1-8FA641558395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15AB957D-7270-493D-86E1-8FA641558395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15AB957D-7270-493D-86E1-8FA641558395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15AB957D-7270-493D-86E1-8FA641558395}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0794F4F4-EA4A-4756-9D5A-98EC75FCB32C}
+	EndGlobalSection
+EndGlobal

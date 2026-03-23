@@ -1,0 +1,14 @@
+D:\repos\EasyDirectCMD\obj\Debug\net9.0\EasyDirectCMD.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\EasyDirectCMD\obj\Debug\net9.0\EasyDirectCMD.AssemblyInfoInputs.cache
+D:\repos\EasyDirectCMD\obj\Debug\net9.0\EasyDirectCMD.AssemblyInfo.cs
+D:\repos\EasyDirectCMD\obj\Debug\net9.0\EasyDirectCMD.csproj.CoreCompileInputs.cache
+D:\repos\EasyDirectCMD\bin\Debug\net9.0\EasyDirectCMD.exe
+D:\repos\EasyDirectCMD\bin\Debug\net9.0\EasyDirectCMD.deps.json
+D:\repos\EasyDirectCMD\bin\Debug\net9.0\EasyDirectCMD.runtimeconfig.json
+D:\repos\EasyDirectCMD\bin\Debug\net9.0\EasyDirectCMD.dll
+D:\repos\EasyDirectCMD\bin\Debug\net9.0\EasyDirectCMD.pdb
+D:\repos\EasyDirectCMD\obj\Debug\net9.0\EasyDirectCMD.dll
+D:\repos\EasyDirectCMD\obj\Debug\net9.0\refint\EasyDirectCMD.dll
+D:\repos\EasyDirectCMD\obj\Debug\net9.0\EasyDirectCMD.pdb
+D:\repos\EasyDirectCMD\obj\Debug\net9.0\EasyDirectCMD.genruntimeconfig.cache
+D:\repos\EasyDirectCMD\obj\Debug\net9.0\ref\EasyDirectCMD.dll
